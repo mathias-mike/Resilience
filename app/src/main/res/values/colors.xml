@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02A9BF</color>
+    <color name="colorPrimaryDark">#02A9BF</color>
+    <color name="colorAccent">#00548C</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="clicked_white">#F5F5F5</color>
+    <color name="gray">#F3F3F3</color>
+    <color name="dark_gray">#DFDFDF</color>
+    <color name="black">#000000</color>
+    <color name="red">#C80A14</color>
+    <color name="clicked_red">#E3252F</color>
+    <color name="text_color">#808080</color>
+
+    <color name="loading_color">#3302A9BF</color>
+</resources>

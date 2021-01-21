@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/reseilienceGroups">
+
+    <fragment
+        android:id="@+id/reseilienceGroups"
+        android:name="com.psyclone.resilience.groups.ResilienceGroupFragment"
+        android:label="ReseilienceGroups" >
+        <action
+            android:id="@+id/action_reseilienceGroups_to_groupMessages"
+            app:destination="@id/groupMessages" />
+        <action
+            android:id="@+id/action_reseilienceGroups_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/groupMessages"
+        android:name="com.psyclone.resilience.messages.GroupMessageFragment"
+        android:label="fragment_group_messages"
+        tools:layout="@layout/fragment_group_messages" />
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.psyclone.resilience.nav_drawer_fragments.AboutFragment"
+        android:label="AboutFragment" />
+</navigation>

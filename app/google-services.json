@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126950189851",
+    "project_id": "resilience-1611050990703",
+    "storage_bucket": "resilience-1611050990703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126950189851:android:f315f152bfe78a7b2081be",
+        "android_client_info": {
+          "package_name": "com.psyclone.resilience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126950189851-hooog8p9958q8ca8jpsmc0dai0inb94a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psyclone.resilience",
+            "certificate_hash": "75d6657b49213a9df7de3d782cf54dab27b1fa7e"
+          }
+        },
+        {
+          "client_id": "126950189851-ddaoperhrcltaft4h8p45jk9djfaq0j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQnq2Jj93J-vovWK-quKtlhsePcyq95VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126950189851-ddaoperhrcltaft4h8p45jk9djfaq0j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

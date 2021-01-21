@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Resilience</string>
+    <string name="welcome_text">Welcome to Resilience. Sign in with your google account to continue.</string>
+    <string name="hello">Hello!</string>
+    <string name="sign_in">Sign in with Google</string>
+    <string name="about">About</string>
+    <string name="support">Support</string>
+    <string name="sign_out">Sign out</string>
+    <string name="start_a_message">Start a message</string>
+    <string name="send_message">Send message</string>
+
+    <string name="about_text">Resilience is a support group mobile app that serves as the destination for individuals going through though times in life to find support ( We all have that one time. With resilience, you are not alone ). \n\nThis is a minimalistic version of the app, for an improved version, group messages would be audio and not text and group members with pick specific times for their gathering.</string>
+
+    <string-array name="groups_desc">
+        <item>Meet and have a discussion with those with addiction problem and those who have overcame it.</item>
+        <item>Aids don\'t define our lives.</item>
+        <item>Anger only controls us if we let it.</item>
+        <item>Things are not as bad, let loss, have fun.</item>
+        <item>It\'s never over! With life, there exist hope.</item>
+        <item>Together we stand tall.</item>
+    </string-array>
+
+    <string-array name="groups">
+        <item>Addiction</item>
+        <item>Aids</item>
+        <item>Anger</item>
+        <item>Anxiety</item>
+        <item>Cancer</item>
+        <item>Grief</item>
+    </string-array>
+
+</resources>
